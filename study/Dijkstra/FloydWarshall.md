@@ -48,4 +48,8 @@ tip. 그래프에서 정점끼리의 최단 경로를 구하는 문제들
 
 ![image](https://user-images.githubusercontent.com/68668924/106095655-7cef6b80-6177-11eb-98bf-e6b5a411bb4c.png)
 
+
+![image](https://user-images.githubusercontent.com/68668924/106146589-3111e600-61ba-11eb-88db-6d6afc350d8a.png)
+
+
 참조: https://hsp1116.tistory.com/45?category=547783
