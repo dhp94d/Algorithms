@@ -13,4 +13,4 @@ const factorial = (number) => {
 factorial(Number(input));
 console.log(sum);
 
-'/dev/stdin'
+//'/dev/stdin'
