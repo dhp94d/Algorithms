@@ -1,3 +1,6 @@
 function solution(s) {
-    return isNaN(s) === true && (s.length === 4 || s.lnegth === 6) ? false : true;
+    if(s.length === 4 || s.lnegth === 6){
+        return s.split("").every((c)=>!isNaN(c))
+    }
+    return false
 }
